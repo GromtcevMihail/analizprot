@@ -1,2 +1,3 @@
-# analizprot
-programm for analiz prot and calc
+# analprot
+programm include calc and anp;
+has error in apps;
